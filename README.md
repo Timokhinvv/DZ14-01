@@ -127,14 +127,20 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   ![Снимок экрана от 2025-06-19 00-55-32](https://github.com/user-attachments/assets/dcbf074e-3aa7-405c-82a4-ae2ebbb59cc6)
 
 - Создаю сеть и машины
-  - внешняя и внутренняя сеть
-  - вывод ip-адресов
-  - host-elasticsearch
-  - host-bastion
-  - host-kibana
-  - host-zabbix
-  - группы безопасности
-  - таргет и целевая группа
-  - snapshot 
+  - внешняя и внутренняя сеть: [networks.tf](/networks.tf)
+  - вывод ip-адресов: [outputs.tf](/outputs.tf)
+  - host-elasticsearch: [elastic.tf](/elastic.tf)
+  - host-bastion: [bastion.tf](/bastion.tf)
+  - host-kibana: [kibana.tf](/kibana.tf)
+  - host-zabbix: [zabbix.tf](/zabbix.tf)
+  - группы безопасности: [security.tf](/security.tf)
+  - таргет и целевая группа: [balancer.tf](/balancer.tf)
+  - snapshot: [snapshot.tf](/snapshot.tf)
+
+- Запускаю terraform apply:
+  - Получаю ip-адреса
+ ![Снимок экрана от 2025-06-18 22-33-32](https://github.com/user-attachments/assets/aac5c314-e7ba-492d-b7d3-ce6fefd8c5d5)
+
+ 
   
 

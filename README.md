@@ -144,7 +144,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 - Смотрим в Yandex Cloud со стороны консоли:
   ![Снимок экрана от 2025-06-19 01-21-29](https://github.com/user-attachments/assets/c687c008-44fc-4d11-8d86-5bf071d38ec4)
   ![Снимок экрана от 2025-06-19 02-04-20](https://github.com/user-attachments/assets/da8df00f-ef6e-4739-ad65-db204988e4dd)
-  ![Снимок экрана от 2025-06-19 02-09-29](https://github.com/user-attachments/assets/c2d02f6b-cb5c-4d75-bfeb-034dfcdaed86)
+  ![Снимок экрана от 2025-06-19 02-16-04](https://github.com/user-attachments/assets/c295e391-6ffe-47d3-ba9f-f03c7fa268e9)
+
   
 
  

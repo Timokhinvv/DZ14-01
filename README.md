@@ -121,6 +121,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   ![Снимок экрана от 2025-06-16 03-56-08](https://github.com/user-attachments/assets/d4d773be-417a-41f0-9352-764ece558bc3)
   ![Снимок экрана от 2025-06-16 03-56-27](https://github.com/user-attachments/assets/65ff8517-7d5e-44cb-84cf-677bf10bc78a)
   ![Снимок экрана от 2025-06-17 23-59-13](https://github.com/user-attachments/assets/32a5ac7e-cc2e-473e-a45b-173de0ce5559)
+  [main.tf](/main.tf)
   
   
   

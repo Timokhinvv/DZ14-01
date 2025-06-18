@@ -113,7 +113,7 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 ## Решение задания
 
-Использую для запуска инфраструктуру Terraform:
+Использую для запуска инфраструктуру Terraform и ansible:
 - Прикладываю скриншоты по проведенной работе, в том числе файл main.tf, в котором все начинается.
   ![Снимок экрана от 2025-06-15 22-19-19](https://github.com/user-attachments/assets/66ee2ba1-68d4-43a1-a204-51f08b4cf9e3)
   ![Снимок экрана от 2025-06-16 03-54-57](https://github.com/user-attachments/assets/f1cac141-b011-433c-8a0a-a3256945af9d)
@@ -123,6 +123,10 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   ![Снимок экрана от 2025-06-17 23-59-13](https://github.com/user-attachments/assets/32a5ac7e-cc2e-473e-a45b-173de0ce5559)
   [main.tf](/main.tf)
   
-  
+- Прописываю в файле meta.yml, сгенерированный ключ shh:
+  ![Снимок экрана от 2025-06-19 00-55-32](https://github.com/user-attachments/assets/dcbf074e-3aa7-405c-82a4-ae2ebbb59cc6)
+
+
+
   
 

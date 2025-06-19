@@ -147,7 +147,15 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   ![Снимок экрана от 2025-06-19 02-16-04](https://github.com/user-attachments/assets/c295e391-6ffe-47d3-ba9f-f03c7fa268e9)
   ![Снимок экрана от 2025-06-19 02-48-21](https://github.com/user-attachments/assets/4a571bd7-aded-4b99-9953-788e7a351c49)
   
+- Промежуточный итог:
+  - 6 ВМ
+  - 2 WEB-server
+  - 6 снимков
+  - 4 внешних ip
+  - 10 групп безопасности и т.д.
 
+- Устанавливаю ansible, роли для galaxy, инициализирую ssh и пингую машины для ansible.
+  
   
 
   

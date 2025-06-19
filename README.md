@@ -146,6 +146,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   ![Снимок экрана от 2025-06-19 02-04-20](https://github.com/user-attachments/assets/da8df00f-ef6e-4739-ad65-db204988e4dd)
   ![Снимок экрана от 2025-06-19 02-16-04](https://github.com/user-attachments/assets/c295e391-6ffe-47d3-ba9f-f03c7fa268e9)
   ![Снимок экрана от 2025-06-19 02-48-21](https://github.com/user-attachments/assets/4a571bd7-aded-4b99-9953-788e7a351c49)
+  ![Снимок экрана от 2025-06-19 22-11-48](https://github.com/user-attachments/assets/f6a03aee-1af6-4451-84ba-163671ac8e84)
+
   
 - Промежуточный итог:
   - 6 ВМ

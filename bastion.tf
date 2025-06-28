@@ -1,9 +1,9 @@
 # Jump
 resource "yandex_compute_instance" "bastion" {
 
-  name     = "bastion"
-  hostname = "bastion"
-  zone     = "ru-central1-a"
+  name                      = "bastion"
+  hostname                  = "bastion"
+  zone                      = "ru-central1-a"
   allow_stopping_for_update = false
 
   resources {
@@ -14,8 +14,8 @@ resource "yandex_compute_instance" "bastion" {
 
   boot_disk {
     initialize_params {
-      image_id = "fd89dboump1l490q0osc"
-      size     = 8
+      image_id = "fd83u9thmahrv9lgedrk"
+      size     = 10
     }
   }
 
@@ -23,11 +23,11 @@ resource "yandex_compute_instance" "bastion" {
     subnet_id = yandex_vpc_subnet.bastion-external-segment.id
 
     security_group_ids = [
-                          yandex_vpc_security_group.external-ssh-sg.id,
-                          yandex_vpc_security_group.internal-ssh-sg.id,
-                          yandex_vpc_security_group.zabbix-sg.id,
-                          yandex_vpc_security_group.egress-sg.id
-                         ]
+      yandex_vpc_security_group.external-ssh-sg.id,
+      yandex_vpc_security_group.internal-ssh-sg.id,
+      yandex_vpc_security_group.zabbix-sg.id,
+      yandex_vpc_security_group.egress-sg.id
+    ]
 
     nat        = true
     ip_address = "192.168.30.10"

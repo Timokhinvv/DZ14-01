@@ -115,12 +115,9 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 Использую для запуска инфраструктуру Terraform и ansible:
 - Прикладываю скриншоты по проведенной работе, в том числе файл main.tf, в котором все начинается.
-  ![Снимок экрана от 2025-06-15 22-19-19](https://github.com/user-attachments/assets/66ee2ba1-68d4-43a1-a204-51f08b4cf9e3)
-  ![Снимок экрана от 2025-06-16 03-54-57](https://github.com/user-attachments/assets/f1cac141-b011-433c-8a0a-a3256945af9d)
-  ![Снимок экрана от 2025-06-16 03-55-26](https://github.com/user-attachments/assets/58ea6684-9a91-4369-b598-1db5185f3c0b)
-  ![Снимок экрана от 2025-06-16 03-56-08](https://github.com/user-attachments/assets/d4d773be-417a-41f0-9352-764ece558bc3)
-  ![Снимок экрана от 2025-06-16 03-56-27](https://github.com/user-attachments/assets/65ff8517-7d5e-44cb-84cf-677bf10bc78a)
-  ![Снимок экрана от 2025-06-17 23-59-13](https://github.com/user-attachments/assets/32a5ac7e-cc2e-473e-a45b-173de0ce5559)
+ ![Снимок экрана от 2025-06-29 02-31-46](https://github.com/user-attachments/assets/63852a55-4bb6-4c4c-b3eb-a5bcd02c96db)
+ ![Снимок экрана от 2025-06-29 02-36-23](https://github.com/user-attachments/assets/06b7343d-58fe-4422-9830-9cf5b82ccf36)
+
   [main.tf](/main.tf)
   
 - Прописываю в файле meta.yml, сгенерированный ключ shh:

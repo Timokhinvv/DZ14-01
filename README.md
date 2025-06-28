@@ -137,15 +137,11 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 - Запускаю terraform apply:
   - Получаю ip-адреса
- ![Снимок экрана от 2025-06-18 22-33-32](https://github.com/user-attachments/assets/aac5c314-e7ba-492d-b7d3-ce6fefd8c5d5)
+   ![Снимок экрана от 2025-06-29 02-54-51](https://github.com/user-attachments/assets/368c87fb-7fd1-4d64-abd8-bff354130e5b)
+
 
 - Смотрим в Yandex Cloud со стороны консоли:
-  ![Снимок экрана от 2025-06-19 01-21-29](https://github.com/user-attachments/assets/c687c008-44fc-4d11-8d86-5bf071d38ec4)
-  ![Снимок экрана от 2025-06-19 02-04-20](https://github.com/user-attachments/assets/da8df00f-ef6e-4739-ad65-db204988e4dd)
-  ![Снимок экрана от 2025-06-19 02-16-04](https://github.com/user-attachments/assets/c295e391-6ffe-47d3-ba9f-f03c7fa268e9)
-  ![Снимок экрана от 2025-06-19 02-48-21](https://github.com/user-attachments/assets/4a571bd7-aded-4b99-9953-788e7a351c49)
-  ![Снимок экрана от 2025-06-19 22-11-48](https://github.com/user-attachments/assets/f6a03aee-1af6-4451-84ba-163671ac8e84)
-  ![Снимок экрана от 2025-06-19 22-24-13](https://github.com/user-attachments/assets/a0b2e051-e43f-4348-af56-698dbc687df1)
+  
 
 
   

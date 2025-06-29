@@ -13,8 +13,8 @@ resource "yandex_compute_instance" "kibana" {
 
   boot_disk {
     initialize_params {
-      image_id = "fd89dboump1l490q0osc"
-      size     = 8
+      image_id = "fd83u9thmahrv9lgedrk"
+      size     = 10
     }
   }
 
@@ -22,12 +22,12 @@ resource "yandex_compute_instance" "kibana" {
     subnet_id = yandex_vpc_subnet.bastion-external-segment.id
 
     security_group_ids = [
-                           yandex_vpc_security_group.internal-ssh-sg.id,
-                           yandex_vpc_security_group.external-ssh-sg.id,
-                           yandex_vpc_security_group.zabbix-sg.id,
-                           yandex_vpc_security_group.kibana-sg.id,
-                           yandex_vpc_security_group.egress-sg.id
-                         ]
+      yandex_vpc_security_group.internal-ssh-sg.id,
+      yandex_vpc_security_group.external-ssh-sg.id,
+      yandex_vpc_security_group.zabbix-sg.id,
+      yandex_vpc_security_group.kibana-sg.id,
+      yandex_vpc_security_group.egress-sg.id
+    ]
 
     nat        = true
     ip_address = "192.168.30.30"

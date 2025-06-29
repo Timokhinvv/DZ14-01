@@ -1,1 +1,30 @@
+[bastion]
+192.168.30.10 public_ip=51.250.67.114 ansible_user=tvv
+    
+[web_servers]
+192.168.10.10 ansible_user=tvv
+192.168.10.20 ansible_user=tvv
+
+[web_server_1]
+192.168.10.10 ansible_user=tvv
+
+[web_server_2]
+192.168.10.20 ansible_user=tvv
+
+[zabbix]
+192.168.30.20 public_ip=89.169.141.240 ansible_user=tvv
+
+[zabbix_server]
+192.168.30.20 ansible_user=tvv
+    
+[elastic_server]
+192.168.10.30 ansible_user=tvv
+
+[kibana_server]
+192.168.30.30 public_ip=46.21.245.160 ansible_user=tvv
+
+[all:vars]
+ansible_ssh_common_args='-o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o ProxyCommand="ssh -p 22 -W %h:%p -q tvv@51.250.67.114"'
+zabbix_ext_ip=89.169.141.240
+zabbix_int_ip=192.168.30.20
 

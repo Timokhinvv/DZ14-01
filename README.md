@@ -155,7 +155,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   - 10 групп безопасности и т.д.
 
 - Устанавливаю ansible, роли для galaxy, инициализирую ssh и пингую машины для ansible.
-  
+  ![Снимок экрана от 2025-06-29 04-31-39](https://github.com/user-attachments/assets/effe4962-bbff-4dee-b277-6f213286f867)
+
   
 
   

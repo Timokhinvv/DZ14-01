@@ -139,9 +139,9 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   - Получаю ip-адреса
    ![Снимок экрана от 2025-06-29 02-54-51](https://github.com/user-attachments/assets/368c87fb-7fd1-4d64-abd8-bff354130e5b)
 
-
 - Смотрим в Yandex Cloud со стороны консоли:
-  
+   ![Снимок экрана от 2025-06-29 03-15-07](https://github.com/user-attachments/assets/713bab36-9149-4121-9125-99ceafcf4fa4)
+   
 
 
   

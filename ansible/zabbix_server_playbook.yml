@@ -1,18 +1,13 @@
 ---
-- name: install postgresql
+- name: Install and configure Zabbix with PostgreSQL
   hosts: zabbix
   become: yes
-  
-  roles: 
-    - role: psql
 
-- name: install zabbix-server
-  hosts: zabbix
-  become: yes
   vars_files:
     - "./zabbix/zabbix_dbpasswd.yml"
-  
+
   roles:
+    - role: psql
     - role: geerlingguy.apache
     - role: geerlingguy.php
     - role: community.zabbix.zabbix_server

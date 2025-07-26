@@ -166,6 +166,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
    ansible-playbook playbook2.yml
   ![Снимок экрана от 2025-06-29 04-36-34](https://github.com/user-attachments/assets/9bad3c7d-05ec-422c-9925-59a767940d27)
   
+-  Скриншоты после проверки
+  <img width="1210" height="786" alt="Снимок экрана от 2025-07-26 17-07-47" src="https://github.com/user-attachments/assets/2dd435d8-fc49-4636-9765-43415fac83a1" />
   
 
   

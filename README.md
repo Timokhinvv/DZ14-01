@@ -140,7 +140,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 - Запускаю terraform apply:
   - Получаю ip-адреса
-   ![Снимок экрана от 2025-06-29 02-54-51](https://github.com/user-attachments/assets/368c87fb-7fd1-4d64-abd8-bff354130e5b)
+   <img width="786" height="352" alt="Снимок экрана от 2025-07-26 10-46-30" src="https://github.com/user-attachments/assets/9e0352d7-1d4a-4ce6-955d-e702339764b1" />
+
 
 - Смотрим в Yandex Cloud со стороны консоли:
    ![Снимок экрана от 2025-06-29 04-15-02](https://github.com/user-attachments/assets/f09ac9c5-098d-453a-9c57-a9e95f09dd84)

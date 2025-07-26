@@ -180,6 +180,8 @@ http://46.21.244.241  Zabbix
 
   <img width="1236" height="754" alt="Снимок экрана от 2025-07-26 18-52-21" src="https://github.com/user-attachments/assets/dec3e7ef-6d8e-492d-ba45-878171746843" />
 
+  <img width="1236" height="726" alt="Снимок экрана от 2025-07-26 21-12-35" src="https://github.com/user-attachments/assets/0803b799-8fb3-41c8-a555-d96e8bf5831d" />
+
 
   <img width="1212" height="760" alt="Снимок экрана от 2025-07-26 17-04-15" src="https://github.com/user-attachments/assets/ccd842ec-000e-47b7-af03-9d631ae960f7" />
   <img width="1212" height="760" alt="Снимок экрана от 2025-07-26 16-31-06" src="https://github.com/user-attachments/assets/762bcba8-2bdd-41b7-a316-6e4468240cd3" />

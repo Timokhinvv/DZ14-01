@@ -168,9 +168,16 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   
 -  Скриншоты после проверки
   <img width="1210" height="786" alt="Снимок экрана от 2025-07-26 17-07-47" src="https://github.com/user-attachments/assets/2dd435d8-fc49-4636-9765-43415fac83a1" />
-  http://46.21.244.241  Zabbix
+
+
+http://46.21.244.241  Zabbix
   Login: Admin
   Password: ******
+
+  <img width="1210" height="786" alt="Снимок экрана от 2025-07-26 17-07-47" src="https://github.com/user-attachments/assets/dfc2b43e-83a5-44c0-941f-582782f48385" />
+
+  <img width="1210" height="786" alt="Снимок экрана от 2025-07-26 17-08-22" src="https://github.com/user-attachments/assets/71d1326d-7205-4b3f-940b-37bc6fa7c8a8" />
+
 
   <img width="1212" height="760" alt="Снимок экрана от 2025-07-26 17-04-15" src="https://github.com/user-attachments/assets/ccd842ec-000e-47b7-af03-9d631ae960f7" />
   <img width="1212" height="760" alt="Снимок экрана от 2025-07-26 16-31-06" src="https://github.com/user-attachments/assets/762bcba8-2bdd-41b7-a316-6e4468240cd3" />

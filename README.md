@@ -121,7 +121,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
   [main.tf](/main.tf)
   
 - Прописываю в файле meta.yml, сгенерированный ключ shh:
- ![Снимок экрана от 2025-06-29 02-45-16](https://github.com/user-attachments/assets/1fb2bdd4-f6e6-4e27-a124-a34e8c4e3973)
+<img width="1236" height="754" alt="Снимок экрана от 2025-07-26 20-00-35" src="https://github.com/user-attachments/assets/2c736280-7cf0-4a9f-92bc-7a476144ba5d" />
+
 
  
 - Создаю сеть и машины

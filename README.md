@@ -115,7 +115,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 Использую для запуска инфраструктуру Terraform и ansible:
 - Прикладываю скриншоты по проведенной работе, в том числе файл main.tf, в котором все начинается.
- ![Снимок экрана от 2025-06-29 02-31-46](https://github.com/user-attachments/assets/63852a55-4bb6-4c4c-b3eb-a5bcd02c96db)
+<img width="1236" height="754" alt="Снимок экрана от 2025-07-26 20-05-53" src="https://github.com/user-attachments/assets/dccbc004-f4b3-4bf8-a15f-3e255d822498" />
+
  ![Снимок экрана от 2025-06-29 02-36-23](https://github.com/user-attachments/assets/06b7343d-58fe-4422-9830-9cf5b82ccf36)
 
   [main.tf](/main.tf)

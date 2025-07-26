@@ -158,6 +158,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 - Устанавливаю ansible, роли для galaxy, инициализирую ssh и пингую машины для ansible.
   ![Снимок экрана от 2025-06-29 04-31-39](https://github.com/user-attachments/assets/effe4962-bbff-4dee-b277-6f213286f867)
+  <img width="786" height="570" alt="Снимок экрана от 2025-07-26 13-05-37" src="https://github.com/user-attachments/assets/209321b2-f6c4-49cb-beee-eaae944e24db" />
+  <img width="786" height="570" alt="Снимок экрана от 2025-07-26 13-05-14" src="https://github.com/user-attachments/assets/1bf26474-1688-4fb5-aaed-67fed670f134" />
 
 - Устанавлваю плейбуки:
    ansible-playbook playbook1.yml

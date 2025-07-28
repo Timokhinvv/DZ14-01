@@ -197,6 +197,7 @@ http://46.21.244.241  Zabbix
 
   <img width="1236" height="756" alt="Снимок экрана от 2025-07-28 03-33-59" src="https://github.com/user-attachments/assets/b38bc632-3526-409e-9be3-8d1f38ad7a0f" />
 
+  <img width="1236" height="726" alt="Снимок экрана от 2025-07-28 13-48-17" src="https://github.com/user-attachments/assets/c3bdde92-a73a-4eee-bdd5-965ab6d9dd9f" />
 
   
   http://46.21.247.148:5601 Elastic

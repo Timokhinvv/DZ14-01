@@ -1,0 +1,18 @@
+#cloud-config
+users:
+  - name: tvv
+    groups: sudo
+    shell: /bin/bash
+    sudo: ['ALL=(ALL) NOPASSWD:ALL']
+    lock_passwd: false
+    passwd: $6$MpWljBoyeSi1GEd8$yhA/uKvBMoegVboaxXq5kVFd3ih0w08vsdggJ.JZCpLQD5Lz9EgS.KSZ33ISRvc7Yv1Zmg6SXUHeHoqZhxCHQ1
+    ssh_pwauth: true
+packages:
+  - openssh-server
+
+runcmd:
+  - systemctl enable ssh
+  - systemctl start ssh
+  - sed -i 's/^#\?PasswordAuthentication no/PasswordAuthentication yes/' /etc/ssh/sshd_config
+  - sed -i 's/^#\?PermitRootLogin.*/PermitRootLogin no/' /etc/ssh/sshd_config
+  - systemctl restart ssh

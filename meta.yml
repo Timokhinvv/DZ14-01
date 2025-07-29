@@ -5,7 +5,7 @@ users:
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     lock_passwd: false
-    passwd: $6$MpWljBoyeSi1GEd8$yhA/uKvBMoegVboaxXq5kVFd3ih0w08vsdggJ.JZCpLQD5Lz9EgS.KSZ33ISRvc7Yv1Zmg6SXUHeHoqZhxCHQ1
+    passwd: $*************Q1
     ssh_pwauth: true
 packages:
   - openssh-server
